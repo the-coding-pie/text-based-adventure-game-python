@@ -4,4 +4,4 @@ A simple text based choose your own adventure game built in python3. You can fin
 Output:
 
 
-<img src="https://i.ibb.co/qD63gZ9/output.png" width="250px" />
+<img src="https://i.ibb.co/qD63gZ9/output.png" />
